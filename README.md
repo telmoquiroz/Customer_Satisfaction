@@ -9,7 +9,7 @@ Findings exhibit that the company should take special care of Inflight Entertain
 ### Introduction
 Covid-19 pandemic negatively impacted the aviation sector. Several prestigious companies had to reduce a high percentage of their number of payroll employees because of the worldwide travel restrictions and quarantines; and even worse, some of them had to declare bankruptcy.  
 Nowadays, the highly expected vaccine has permitted airlines to return their activities almost to pre-pandemic conditions.
-In this context, it is relevant for companies like Falcon Airlines to clearly understand the main variables that determine their customers' satisfaction to be as competitive as possible and gradually recover from the economic crisis.
+In this context, it is relevant for companies like XYZ Airlines to clearly understand the main variables that determine their customers' satisfaction to be as competitive as possible and gradually recover from the economic crisis.
 The objective of the present study is to determine the relative importance of each parameter concerning its contribution to passenger satisfaction. A random sample of 90,917 people who traveled using their flights had been provided for the analysis. 
 
 ### Objectives
