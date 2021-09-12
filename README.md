@@ -1,4 +1,4 @@
-# UTA-Customer_Satisfaction_Project
+# Customer_Satisfaction
 
 ### Executive Summary
 XYZ Airlinez is in need to improve the overall satisfaction of their passengers to be more competitive in the context of the post-pandemic economy reactivation. 
