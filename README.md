@@ -1,7 +1,7 @@
 # Customer_Satisfaction
 
 ### Executive Summary
-XYZ Airline is in need to improve the overall satisfaction of their passengers to be more competitive in the context of the post-pandemic economy reactivation. 
+Airline is in need to improve the overall satisfaction of their passengers to be more competitive in the context of the post-pandemic economy reactivation. 
 The objective of the present analysis is to identify the most influential factors impacting passenger satisfaction and make recommendations for the company to take the necessary action points.
 Since the data set provided includes inputs and the desired outputs, we will perform Supervised Learning models with default parameters and hyperparameter tuning: Decision Tree, Random Forest, and Bagging & Boosting Models. Finally, we will use the Stacking Classifier, which stacks the output of individual estimators and use a classifier to compute the final prediction.
 Findings exhibit that the company should take special care of Inflight Entertainment, Ease of Online Booking, Seat Comfort among its Customers Type (Loyal and Disloyal customers). Similarly, an important segment to monitor is the almost 50% of the existing customers within the Business Class, which has higher customer service expectations.
